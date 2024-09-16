@@ -1,14 +1,5 @@
 # cf-wkrs-pages-vless
 
-1. Copy `_worker.js` code from [here](https://github.com/Gamoyxyz/tes/blob/main/_worker.js).
-
-2. Alternatively, you can click the button below to deploy directly.
-
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Gamoyxyz/tes)
-
-
-# cf-wkrs-pages-vless
-
 在 CloudFlare Workers 或 Pages 部署 vless 节点，支持 Base64、Clash 及 Sing-box 配置文件订阅文件生成
 
 ## 使用方法
